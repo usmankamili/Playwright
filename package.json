@@ -1,0 +1,24 @@
+{
+  "name": "Playwright",
+  "version": "1.0.0",
+  "description": "Spenmo Assignment",
+  "main": "index.js",
+  "dependencies": {
+    "playwright": "^1.21.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.21.1"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usmankamili/Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usmankamili/Playwright/issues"
+  },
+  "homepage": "https://github.com/usmankamili/Playwright#readme"
+}
